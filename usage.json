@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xtivix-core",
+  "packageVersion": "1.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xtivix-core",
+  "usageRepository": "https://github.com/x12i-sdk/xtivix-core",
+  "sourceRepository": "https://github.com/x12i/xtivix",
+  "sourceCommit": "a87970694c9ee67967a2c51cfdbad8d39130db7a",
+  "sourcePackageDirectory": "packages/core",
+  "example": {
+    "title": "Mask a synthetic identifier before logging provider text",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:45:38.545615+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "857db1489752c26cfee149a96e2ffd068b86848c581ebd4260235045fbe72684",
+    "manifestSha256": "86ad66bd2951c1c9c0b089f6e7af1237a162607b17f1ac967dce201321fb5478"
+  }
+}
